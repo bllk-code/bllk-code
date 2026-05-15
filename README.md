@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @bllk-code
-- 👀 I’m interested in learning python and everything related to c language
-- 🌱 I’m currently learning python
+Hello beautiful peoples, you can call me snow and im a first year CS student. I have very minimal knowledge on C++ and i barely have experience coding BUT i would say im pretty creative.
